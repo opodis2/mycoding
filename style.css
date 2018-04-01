@@ -26,6 +26,11 @@
   background-size: cover;
 }
 
+.ul{
+  color: white;
+  text-transform: uppercase;
+}
+
 .main-title{
   color: #ffffff;
   font-size: 40px;
